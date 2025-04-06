@@ -26,8 +26,6 @@ O **Core Notes App** é uma aplicação web para gerenciar tarefas pessoais ou p
 Assista ao vídeo de demonstração:
 
 
-Ou veja o GIF abaixo para uma prévia rápida:
-
 ![Demonstração](corenote.gif)
 
 
