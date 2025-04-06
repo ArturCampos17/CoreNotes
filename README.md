@@ -200,7 +200,7 @@ Inicie o servidor backend:
 ```bash
 npm start
 ```
-O servidor estará disponível em [http://localhost:5000](http://localhost:5000).
+O servidor estará disponível em [http://localhost:3001](http://localhost:3001).
 
 ---
 
@@ -235,7 +235,7 @@ O frontend estará disponível em [http://localhost:3000](http://localhost:3000)
 
 Após iniciar ambos os servidores:
 - O frontend estará disponível em [http://localhost:3000](http://localhost:3000).
-- O backend estará rodando em [http://localhost:5000](http://localhost:5000).
+- O backend estará rodando em [http://localhost:3001](http://localhost:3001).
 
 ---
 
