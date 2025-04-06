@@ -1,7 +1,7 @@
 
 # Core Notes App
 
-O **Core Notes App** é uma aplicação web para gerenciar tarefas pessoais ou profissionais. Ele permite criar, editar, excluir, marcar como favorita e alterar o status de tarefas. O sistema também oferece recursos de personalização, como cores para categorizar tarefas, e uma interface responsiva para melhor experiência em dispositivos móveis.
+O **Core Notes App** é uma aplicação para gerenciar tarefas pessoais ou profissionais. Ele permite criar, editar, excluir, marcar como favorita e alterar o status de tarefas. O sistema também oferece recursos de personalização, como cores para categorizar tarefas, e uma interface responsiva para melhor experiência em dispositivos móveis.
 
 [**Repositorio Back-End**](https://github.com/ArturCampos17/corenotes-backend)
 
