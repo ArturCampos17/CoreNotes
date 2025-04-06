@@ -10,16 +10,20 @@ O **Core Notes App** é uma aplicação para gerenciar tarefas pessoais ou profi
 ## Tecnologias Utilizadas
 
 - **Backend:**
-  - Node.js: v22.11.0
-  - Express: v4.18.2
-
+  - **Node.js**: Ambiente de execução JavaScript para construir o servidor.
+  - **Express.js**: Framework minimalista para lidar com rotas e requisições HTTP.
+  - **Sequelize**;  ORM robusto para Node.js que suporta bancos de dados SQL como PostgreSQL, MySQL, SQLite, etc.
+    
 - **Frontend:**
-  - React: v18.2.0
-  - React Router: v6.14.0
+  - **React:** Framework JavaScript para construção da interface.
+  - **TypeScript:** Tipagem estática para maior segurança e manutenibilidade.
+  - **CSS Modules:** Estilização modular para evitar conflitos de classes.
+  - **React Icons:** Ícones interativos para ações como favoritar, editar e excluir.
 
 - **Banco de Dados:**
   - MySql 8.0
-
+ 
+---
 
 ## Demonstração do Projeto
 
@@ -127,15 +131,6 @@ src/
 - **TaskForm:** Formulário para adicionar ou editar tarefas.
 - **TaskItem:** Card individual para exibir e gerenciar uma tarefa.
 - **App:** Componente principal que renderiza a lista de tarefas e o formulário.
-
----
-
-## Tecnologias Utilizadas
-
-- **React:** Framework JavaScript para construção da interface.
-- **TypeScript:** Tipagem estática para maior segurança e manutenibilidade.
-- **CSS Modules:** Estilização modular para evitar conflitos de classes.
-- **React Icons:** Ícones interativos para ações como favoritar, editar e excluir.
 
 ---
 
