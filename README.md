@@ -21,13 +21,16 @@ O **Core Notes App** é uma aplicação web para gerenciar tarefas pessoais ou p
 - **Banco de Dados:**
   - MySql 8.0
 
+
 ## Demonstração do Projeto
 
 Assista ao vídeo de demonstração:
 
+[Assistir Video Completo](https://drive.google.com/drive/folders/1JHy8PQoBNVEB2uu-uPDE63wcInSnyDj2?usp=sharing)
+
+Ou veja o GIF abaixo para uma prévia rápida:
 
 ![Demonstração](corenote.gif)
-
 
 ## Funcionalidades Principais
 
