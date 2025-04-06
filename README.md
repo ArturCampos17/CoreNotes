@@ -16,7 +16,6 @@ O **Core Notes App** é uma aplicação para gerenciar tarefas pessoais ou profi
 - **Frontend:**
   - React: v18.2.0
   - React Router: v6.14.0
-  - Axios: v1.5.0
 
 - **Banco de Dados:**
   - MySql 8.0
