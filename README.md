@@ -240,4 +240,4 @@ docker-compose down
 
 ### **Pronto!**
 
-Agora você pode executar o projeto de forma tradicional ou usando Docker. Se precisar de mais ajuda ou tiver dúvidas, consulte a documentação oficial do Docker ou pergunte aqui! 😊
+Agora você pode executar o projeto de forma tradicional ou usando Docker. 😊
